@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadCsv</string>
+    <string name="names">Enter Any one Name to know the age of sonu , monu , golu </string>
+</resources>

@@ -1,10 +1,7 @@
 package com.pankaj.readcsv;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.graphics.Color;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -16,10 +13,10 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String[] data;
-    private TextView text;
+    String[] data;
+     TextView text;
     private EditText input;
-    private Button btn_click;
+    Button btn_click;
     private String name;
 
     @Override

@@ -14,7 +14,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
 
     String[] data;
-     TextView text;
+    TextView text;
     private EditText input;
     Button btn_click;
     private String name;
